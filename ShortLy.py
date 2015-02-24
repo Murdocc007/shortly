@@ -7,7 +7,7 @@ import math
 import os.path
 import sqlite3
 
-#there are 63 characters in total to which I can map  0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+#there are 62 characters in total to which I can map  0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 
 conn = sqlite3.connect('test.db')
 curr=conn.cursor()
