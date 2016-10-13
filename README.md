@@ -2,7 +2,7 @@ The main logic behind the module is to generate random numbers and with every ur
 
 Why 62?
 
-Let me explain.If we combine lowercase, uppercase and the numbers we get 62 characters in total
+If we combine lowercase, uppercase and the numbers we get 62 characters in total
 ('0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz').
 
 So converting that number into a base 62 format would give us a number which would consist of uppercase or lowercase or numbers.
